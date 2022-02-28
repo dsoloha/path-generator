@@ -1,0 +1,14 @@
+{
+	"pack": {
+	  "pack_format": 8,
+	  "description": [
+		  {
+			  "text": "Path Generator"
+			},
+      {
+        "text": "\nby DCoded",
+        "color": "gray"
+      }
+		]
+	}
+}
