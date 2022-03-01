@@ -2,7 +2,9 @@
 execute as @a at @s if block ~ ~-1 ~ grass_block if score @s walked matches 900..950 run setblock ~ ~-1 ~ dirt
 execute as @a at @s if block ~ ~-1 ~ grass_block if score @s walked matches 2900..2950 run setblock ~ ~-1 ~ dirt
 execute as @a at @s if block ~ ~-1 ~ grass_block if score @s walked matches 4900..4950 run setblock ~ ~-1 ~ dirt
-execute as @a at @s if block ~ ~-1 ~ dirt if score @s walked matches 3700..3750 run setblock ~ ~-1 ~ coarse_dirt
+execute as @a at @s if block ~ ~-1 ~ dirt if score @s walked matches 700..800 run setblock ~ ~-1 ~ coarse_dirt
+execute as @a at @s if block ~ ~-1 ~ dirt if score @s walked matches 2700..2800 run setblock ~ ~-1 ~ coarse_dirt
+execute as @a at @s if block ~ ~-1 ~ dirt if score @s walked matches 4700..4800 run setblock ~ ~-1 ~ coarse_dirt
 execute as @a at @s if block ~ ~-1 ~ coarse_dirt if score @s walked matches 4900..4950 run setblock ~ ~-1 ~ dirt_path
 
 # Stone
