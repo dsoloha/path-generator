@@ -4,7 +4,7 @@ A datapack for Minecraft that generates paths as the player walks.
 
 ## Overview
 
-This datapack will replace the block underneath players' feet as they walk every so often (between 10-30 blocks, depending on the block type).
+This datapack will replace the block underneath players' feet as they move throughout the world every so often (between 10-30 blocks, depending on the block type). Crouching, walking, sprinting, riding horseback, or riding piggyback will all generate paths.
 
 ### Blocks currently supported
 
