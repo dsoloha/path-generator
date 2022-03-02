@@ -14,7 +14,7 @@ This datapack will replace the block underneath players' feet as they move throu
 - polished blackstone bricks (→ cracked polished blackstone bricks → blackstone)
 - nether bricks (→ cracked nether bricks)
 
-[![Path Generator Preview]({https://imgur.com/a/Pxr3mCu})]({https://www.youtube.com/watch?v=tOq09WBBMzA} "Path Generator")
+[![Path Generator Preview](https://imgur.com/a/Pxr3mCu)](https://www.youtube.com/watch?v=tOq09WBBMzA "Path Generator")
 
 ## Usage
 
