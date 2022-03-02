@@ -2,6 +2,18 @@
 
 A datapack for Minecraft that generates paths as the player walks.
 
+## Overview
+
+This datapack will replace the block underneath players' feet as they walk every so often (between 10-30 blocks, depending on the block type).
+
+### Blocks currently supported
+
+- grass (→ dirt → coarse dirt → path block)
+- stone bricks (→ cracked stone brick → cobblestone → andesite)
+- deepslate bricks (→ cracked deepslate bricks → cobbled_deepslate → sideways deepslate)
+- polished blackstone bricks (→ cracked polished blackstone bricks → blackstone)
+- nether bricks (→ cracked nether bricks)
+
 ## Usage
 
 First, download this repository. You can do this by clicking on the green "Code" button near the top of the repository page.
